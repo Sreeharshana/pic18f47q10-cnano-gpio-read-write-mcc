@@ -71,6 +71,7 @@ The following configurations must be made for this project:
 <br><img src="images/gpio-read-write-make-and-program-device.png" width="400">
 
 Result:
+
 <img src="images/demo.gif" alt="Demo" width="500"/>
 
 ## Summary 
