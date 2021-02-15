@@ -49,6 +49,7 @@
 void main(void)
 {
     // Initialize the device
+    //Adding comments 
     SYSTEM_Initialize();
 
     // If using interrupts in PIC18 High/Low Priority Mode you need to enable the Global High and Low Interrupts
